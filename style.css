@@ -1,0 +1,44 @@
+h1 {
+    text-shadow: 2px 2px #8c9eff;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+body {
+    text-align: center;
+    background: #18ffff;
+    padding-top: 550px;
+}
+
+img {
+    border-radius: 50%;
+    width: 125px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#header {
+    background-color: fuchsia;
+    margin: 0;
+    height: 400px;
+    padding: 50;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+}
